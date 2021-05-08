@@ -1,9 +1,9 @@
 # Los-datos-como-eje-principal-de-la-ciencia-de-datos-en-el-idioma-espa-ol-y-la-IA
 Enlaces a los conjuntos de datos:
 
-https://gist.github.com/Itvia/de9496bb3ab9aeeefe3c041f770d3ef8
+https://gist.github.com/Itvia/f70d4073d58d252ef788c7dca8d6f7e3
 
-https://gist.github.com/Itvia/5bc393a209dd9ff2fe38f1dd405962b1
+https://gist.github.com/Itvia/ea4cf3e28224996be56a2dab36383d43
 # Metodología
 La exposición de datos que aquí se presenta tiene como objetivo arrojar información acerca del sesgo cultural que existe entre el inglés y el español para el uso de datos dentro del campo de la inteligencia artificial y complementar nuestra anterior publicación: “El estado del arte de la ciencia de datos en el idioma español y su aplicación en el campo de la Inteligencia Artificial”. Para ello contaremos con una serie de temas (lingüística, redes sociales, turismo, tecnología, globalización, inteligencia artificial, aprendizaje automático, procesamiento del lenguaje natural, ciencia de datos y científico de datos) que tratan sobre la inteligencia artificial y adicionalmente temas más generalistas y que repercuten en muchos más ámbitos.
 
