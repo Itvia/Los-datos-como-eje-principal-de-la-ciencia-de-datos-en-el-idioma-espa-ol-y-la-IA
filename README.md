@@ -17,7 +17,7 @@ Nuestro objetivo se centra en resolver la pregunta que antes nos planteábamos: 
 # Datasets
 Conjunto de datos en inglés: https://gist.github.com/Itvia/f70d4073d58d252ef788c7dca8d6f7e3
 
-Conjunto de datos en castellano: https://gist.github.com/Itvia/ea4cf3e28224996be56a2dab36383d43
+Conjunto de datos en español: https://gist.github.com/Itvia/ea4cf3e28224996be56a2dab36383d43
 
 # Referencias
 Epdata. (2021).
