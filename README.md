@@ -19,6 +19,11 @@ Conjunto de datos en inglés: https://gist.github.com/Itvia/f70d4073d58d252ef788
 
 Conjunto de datos en español: https://gist.github.com/Itvia/ea4cf3e28224996be56a2dab36383d43
 
+# Diseño Entidad-Relación
+<img src="DER.svg"> 
+
+# Diseño Físico
+
 # Referencias
 Epdata. (2021).
 https://www.epdata.es/datos/lengua-espanola-mundo-datos-graficos/513
