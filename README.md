@@ -23,6 +23,7 @@ Conjunto de datos en español: https://gist.github.com/Itvia/ea4cf3e28224996be56
 <img src="DER.svg"> 
 
 # Diseño Físico
+<img src="DiseñoFisico.svg"> 
 
 # Referencias
 Epdata. (2021).
